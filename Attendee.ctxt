@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Attendee
+comment1.params=name\ email\ attendeeId
+comment1.target=Attendee(java.lang.String,\ java.lang.String,\ int)
+comment2.params=session
+comment2.target=void\ addSession(Session)
+comment3.params=filename
+comment3.target=void\ saveScheduleToFile(java.lang.String)
+comment4.params=filename
+comment4.target=void\ loadScheduleFromFile(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

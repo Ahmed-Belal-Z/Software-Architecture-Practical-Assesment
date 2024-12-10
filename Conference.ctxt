@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Conference
+comment1.params=name\ startDate\ endDate
+comment1.target=Conference(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=session
+comment2.target=void\ addSession(Session)
+comment3.params=attendee
+comment3.target=void\ addAttendee(Attendee)
+comment4.params=filename
+comment4.target=void\ saveSessionsToFile(java.lang.String)
+comment5.params=filename
+comment5.target=void\ loadSessionsFromFile(java.lang.String)
+comment6.params=filename
+comment6.target=void\ saveAttendeesToFile(java.lang.String)
+comment7.params=filename
+comment7.target=void\ loadAttendeesFromFile(java.lang.String)
+numComments=8
